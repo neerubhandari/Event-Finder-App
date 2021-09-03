@@ -1,0 +1,61 @@
+/* Login Form div start  */
+.login input{
+    padding: 0.8rem 4rem;
+    border-radius: 0.4rem;
+    border:1px solid #000;
+    margin-bottom: 2rem;
+    background: transparent;
+    border:1px solid #2AAA8A;
+  }
+  .login input::placeholder{
+    color: rgb(170, 165, 165);
+  }
+  .form-header{
+    margin-bottom: 3rem;
+    color: #000;
+  }
+  .login{
+    border-radius: 0.5rem;
+    align-items: initial;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10vh 34vw;
+    padding: 3rem 0rem;
+    border: 1px solid #2AAA8A;
+  }
+  .login button{
+    padding: 0.7rem 9rem;
+    border:1px solid #fff;
+    background: #2AAA8A;
+    color: #fff;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+  .login button:hover{
+    background-color: #0a5f4a;
+    color: #fff;
+  }
+  span.signup p{
+      font-weight: 600;
+      color:#2AAA8A;
+  }
+  p.top{
+      margin-bottom: 1rem;
+  }
+h4.login-header{
+    font-style: italic;
+    margin-bottom: 2rem;
+}
+  /* Login Form  div end  */
+
+  .account__password i {
+    font-size: 0.7rem;
+    position: absolute;
+    right: 0.8rem;
+    top: 1.1rem;
+    color: var(--light-grey);
+  }
+  .account__password {
+    position: relative;
+  }

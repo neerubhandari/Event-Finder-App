@@ -1,0 +1,79 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3rem;
+    background: #2AAA8A;
+    min-height: 10vh;
+    padding: 0 8rem;
+    flex-wrap: wrap;
+   
+  }
+  .header__logo h1{
+    font-family: cursive;
+    font-size: 1.8rem;
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+  }
+  .header__button{
+      display: flex;
+  }
+  .header__button button {
+    padding: 0.1rem 2.8rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  button.header__login:hover {
+    background-color: #fff;
+    color: #2AAA8A;
+  }
+  button.header__logout:hover {
+    background-color: white;
+    color: #2AAA8A;
+  }
+  button.header__logout {
+    margin-left: 0.9rem;
+    color: white;
+    border: 1px solid white;
+  }
+  button.header__login {
+    color: white;
+    border: 1px solid white;
+  }
+  /* header div end  */
+  
+  /* container div start  */
+  .home-container img {
+  width:40vw;
+  margin-top: 5rem;
+  height: 60vh;
+  border-radius: 10%;
+  }
+.home-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container__content h2{
+    font-size: 3rem;
+}
+.container__content p{
+    font-size: 1.6rem;
+}
+.container-contents{
+    text-align: center;
+    margin-top: 2rem;
+}
+table{
+  margin-top: 10rem;
+}
+.add-btn{
+  color: #fff;
+  text-decoration: none;
+}
+.btn-danger{
+  margin-left: 1rem;
+}

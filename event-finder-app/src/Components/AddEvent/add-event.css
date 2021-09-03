@@ -1,0 +1,27 @@
+.button{
+    background-color: #2AAA8A;
+    padding:0.5rem 1.6rem;
+    border:none;
+    color:#fff;
+    margin-top: 0.4rem;
+}
+
+.form-group input{
+    margin-bottom: 0.9rem;
+}
+.container-fluid .border-container{
+    border: 1px solid #2AAA8A;
+}
+.button-top{
+    padding:0.5rem 1.6rem;
+    border:none;
+    color:#fff;
+    margin-top: 0.4rem;
+    background-color: rgb(221, 33, 33);
+}
+.button:hover{
+    background-color: seagreen;
+}
+.button-left{
+    margin-left: 3.6rem;
+}

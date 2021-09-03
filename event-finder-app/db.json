@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "event": "Champions League  2022",
+      "venue": "Old Trafford",
+      "description": "this is the most important event",
+      "id": 3,
+      "date": "August 24, 2021"
+    },
+    {
+      "event": "Python Seminar",
+      "venue": "Butwal Bhawan",
+      "description": "Something related to programming",
+      "id": 4,
+      "date": "October 20, 2021"
+    },
+    {
+      "event": "Coding Seminar",
+      "venue": "Samsat Vawan",
+      "description": "related to programming",
+      "id": 5,
+      "date": "September 16, 2021"
+    },
+    {
+      "event": "LITE",
+      "venue": "KEC",
+      "description": "Programming seminar",
+      "date": "July 5, 2021",
+      "id": 6
+    }
+  ]
+}
